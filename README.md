@@ -18,3 +18,8 @@ The output file is output.txt
 
 In the second program, I have used a Graph data structure to create the 2D matrix.
 There are two output files. One for BFS traversal and one for DFS traversal called outbfs.txt and outdfs.txt.
+
+Both these files contain:
+1. Client File
+2. Driver File
+3. Header File
