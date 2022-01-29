@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include "PES2UG20CS076_H.h"
+#include "Header_Graphs.h"
 
 extern int xstart, ystart;
 extern int xend, yend;
